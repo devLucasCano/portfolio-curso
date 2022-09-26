@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode acessar o site pelo link abaixo:
 
-- [Portfolio](https://glistening-banoffee-82e405.netlify.app/) - O site está hospedado gratuitamente na Netlify
+- [Portfolio](https://curso-portfolio.netlify.app/) - O site está hospedado gratuitamente na Netlify
 
 # 💼 Direitos
 
